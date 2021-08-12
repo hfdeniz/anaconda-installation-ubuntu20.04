@@ -1,4 +1,4 @@
 # Table of contents
 
-* [anaconda-installation-ubuntu20.04](README.md)
+* [Anaconda Installation on Ubuntu 20.04](README.md)
 
